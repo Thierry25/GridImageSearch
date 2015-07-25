@@ -1,4 +1,4 @@
-package com.codepath.gridimagesearch.activities;
+package com.codepath.gridimagesearch.models;
 
 import android.widget.AbsListView;
 

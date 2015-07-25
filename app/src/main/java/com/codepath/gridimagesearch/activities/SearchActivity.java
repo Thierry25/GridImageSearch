@@ -13,6 +13,7 @@ import android.widget.GridView;
 import android.widget.Toast;
 
 import com.codepath.gridimagesearch.adapters.ImageResultsAdapter;
+import com.codepath.gridimagesearch.models.EndlessScrollListener;
 import com.codepath.gridimagesearch.models.ImageResult;
 import com.codepath.gridimagesearch.R;
 import com.loopj.android.http.AsyncHttpClient;
